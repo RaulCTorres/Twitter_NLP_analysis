@@ -25,16 +25,16 @@
 ## Results
 ![graph1](./images/Picture1.png)
 
-Accuracy for our final model 21% higher than Baseline dummy model.
+
 
 
 ![graph2](./images/Picture2.png)
 
-According to our bar chart, the percentage of correct prediction for both functional and non-functional were both descent 
+We found out that the accuracy score is 83.577 for the baseline model. The best score for final model is 88.500 which was not a big improvement from the original data but it’s a pretty solid number closed to 90%.
 
 ![graph3](./images/Picture3.png)
 
-
+The accurate prediction for positive emotion was great, but the model didn’t have a good performance with the negative emotion. The size of the dataset was one big reason for this. There are over 9000 rows for the original dataset but after we drop nans and filter row with only positive and negative emotions, only 3000 rows left. The model could have a better performance with more data points.
 
 ## Limitation and Future plan
 
@@ -52,14 +52,15 @@ In conclusion, our model had a solid performance about predicting the emotion fr
 
 Please review our full analysis in [our Jupyter Notebook](./Pump-it-Up-Data-Mining-the-Water-Table_Final_Notebook.ipynb) or our [presentation](./Pump-it-Up-Data-Mining-the-Water-Table_Presentation).
 
-For any additional questions, please contact **Ziyuan Wang & zywang1994@gmail.com, Jonathan McCaffrey & jonmcjon@hotmail.com, Stefano Caruso & dog112618@gmail.com**
+For any additional questions, please contact **Ziyuan Wang & zywang1994@gmail.com, Raul Torres & cassielponce@icloud.com**
 
 ## Repository Structure
 
 ```
 ├── README.md                                                     <- The top-level README for reviewers of this project
-├── Pump-it-Up-Data-Mining-the-Water-Table_Final_Notebook.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── Pump-it-Up-Data-Mining-the-Water-Table_Presentation.pdf       <- PDF version of project presentation
+├── .ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── .pdf       <- PDF version of project presentation
 └── images                                                        <- images folder used for project
-└── data                                                          <- data folder used for this project
+└── Data                                                          <- data folder used for this project
+└── Scratch_code                                                  <- Processed_notebook folder used for this project
 ```
