@@ -5,6 +5,7 @@
 =======
 **Authors**:  Ziyuan Wang, Raul Torres
 
+![alt text](twitter_bird.png)
 ### Overview
 
 In this Twitter sentiment analysis project, we analyzed over 9,000 data points from Apple and Google, with positive, negative, and neutral responses. This was a supervised machine learning algorithm, where the training data was labeled with the correct sentiment (positive, negative, or neutral) for each tweet. The algorithm then learned from this training data to make predictions on the sentiment of new, unseen tweets. The results of the analysis showed that the majority of tweets about both Apple and Google were positive in sentiment, with a smaller percentage of negative and neutral tweets. This analysis provided valuable insights into public opinion about these two tech companies.
