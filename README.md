@@ -4,7 +4,7 @@
 =======
 **Authors**:  Ziyuan Wang, Raul Torres
 
-![plot](./Images/twitter_bird.png)
+![Alt text](./Images/twitter_bird.png)
 
 ### Overview
 
