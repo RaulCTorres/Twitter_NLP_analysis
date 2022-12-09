@@ -1,11 +1,10 @@
 # Twitter_NLP_analysis
 
-![graph1](./Images/twitter_bird.png)
 
 =======
 **Authors**:  Ziyuan Wang, Raul Torres
 
-![alt text](https://www.google.com/search?q=twitter+bird+logo&sxsrf=ALiCzsbL9ByqEClb8cyjJqjGyXViybpNzQ:1670625650634&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhrNXDze37AhXNlIkEHYTuATEQ_AUoAXoECAIQAw#imgrc=74D7sQHd3KjIRM)
+![alt text](twitter_bird.png)
 
 ### Overview
 
